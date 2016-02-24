@@ -1,0 +1,50 @@
+h4{
+	font-size: 14px;
+	-webkit-font-smoothig: antialiased;
+	text-rendering: optimizelegibility;
+	margin: 0px;
+}
+p {
+	margin: 0;
+}
+#inFo {
+	padding: 20px;
+	background-color: beige;
+	border: 2px solid;
+}
+#poste{
+	position: absolute;
+	width: 100%;
+	padding: 0 10px;
+	background-color: azure;
+	height: 75px;
+	top: 135px;
+}
+#poste span {
+	position: relative;
+	left: 400px;
+	bottom: 120px;
+}
+#poste span img{
+	max-width: 100%;
+	 width: 100px;
+}
+.alignement {
+	vertical-align: bottom;
+}
+.formation{
+	width:100% ;
+	background-color: azure;
+	margin-top: 0;
+	padding: 10px;
+}
+.pfe {
+	background-color: #2a2a2a;
+	color:white;
+	-webkit-font-smoothig: antialiased;
+	text-rendering: optimizelegibility;
+	text-align:right;
+	padding-right: 15px;
+	padding-top:15px ;
+	height: 150px;
+}
